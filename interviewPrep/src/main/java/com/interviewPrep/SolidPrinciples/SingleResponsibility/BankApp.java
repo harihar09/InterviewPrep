@@ -17,7 +17,7 @@ public class BankApp {
     private void viewAccountDetails(){
         // notification related logic
     }
-    private void loanDetails(){
+    private void loanDetails(String loanType){
         // loan related logic
     }
 
