@@ -5,6 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ca694ed-22ea-4b35-a037-b91e01e14856" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/DipendencyInversion/Bankcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/DipendencyInversion/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/DipendencyInversion/DebitCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/DipendencyInversion/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/InterfaceSegregation/BonusPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/InterfaceSegregation/Cred.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/InterfaceSegregation/Gpay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/InterfaceSegregation/PhonePay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/InterfaceSegregation/UPIPayments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/LiskovPrinciple/FBService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/LiskovPrinciple/FacebookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/LiskovPrinciple/InstaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/LiskovPrinciple/PostMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/LiskovPrinciple/SocialMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/LiskovPrinciple/SocialMediaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/LiskovPrinciple/VideoCallMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/LiskovPrinciple/WhatsAppService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/OpenClosedPrinciple/EmailNotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/OpenClosedPrinciple/MobileNotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/OpenClosedPrinciple/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewPrep/src/main/java/com/interviewPrep/SolidPrinciples/OpenClosedPrinciple/WhatsAppNotificationService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
