@@ -22,6 +22,7 @@ public class Shop {
 
     public static void main(String[] args) {
         //DebitCard debitCard = new DebitCard();
+        // Runtime polymorphism
         Bankcard bankcard = new CreditCard();
         Shop shop = new Shop(bankcard);
         shop.payment(100);
