@@ -1,4 +1,4 @@
-package com.interviewPrep.SolidPrinciples.DipendencyInversion;
+package com.interviewPrep.SolidPrinciples.DependencyInversion;
 
 public class CreditCard implements Bankcard {
     public void pay(int amount) {
