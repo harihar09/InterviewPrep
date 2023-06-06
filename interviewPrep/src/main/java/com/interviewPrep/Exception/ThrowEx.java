@@ -1,7 +1,5 @@
 package com.interviewPrep.Exception;
 
-import java.io.FileNotFoundException;
-
 public class ThrowEx {
 
     static ArithmeticException exception = new ArithmeticException();

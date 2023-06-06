@@ -6,9 +6,15 @@ import java.io.IOException;
 public class CheckedUncheckedException {
     public static void main(String[] args) {
 
-        try{
+        try {
             System.out.println("hi");
-        }catch (ArithmeticException e){ // unchecked
+            // go with child class exception first and then parent
+       /* } catch (Exception e) {
+            System.out.println(e);
+        }*/
+        } catch (ArithmeticException e) { // unchecked
+            System.out.println(e);
+        } catch (Exception e) {
             System.out.println(e);
         }
 
