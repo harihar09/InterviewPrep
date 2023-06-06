@@ -1,4 +1,4 @@
-package com.interviewPrep.String;
+package com.interviewPrep.String.Immutable;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

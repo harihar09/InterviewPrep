@@ -1,4 +1,4 @@
-package com.interviewPrep.String;
+package com.interviewPrep.String.Immutable;
 
 public class ImmutableEmployeeApp {
     public static void main(String[] args) {

@@ -1,10 +1,10 @@
-package com.interviewPrep.String;
+package com.interviewPrep.String.Immutable;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.ToString;
 
-import static com.interviewPrep.String.Address.getAddressInstance;
+import static com.interviewPrep.String.Immutable.Address.getAddressInstance;
 
 @AllArgsConstructor
 @Getter

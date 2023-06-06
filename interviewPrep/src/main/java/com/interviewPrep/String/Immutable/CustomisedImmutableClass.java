@@ -1,4 +1,4 @@
-package com.interviewPrep.String;
+package com.interviewPrep.String.Immutable;
 
 public final class CustomisedImmutableClass {
     // create final class with final data members
