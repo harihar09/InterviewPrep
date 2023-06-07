@@ -1,7 +1,5 @@
 package com.interviewPrep.DesignPatterns.Singleton;
 
-import org.springframework.core.serializer.Deserializer;
-
 import java.io.*;
 import java.lang.reflect.InvocationTargetException;
 
